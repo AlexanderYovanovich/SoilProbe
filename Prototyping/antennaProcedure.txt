@@ -1,0 +1,13 @@
+Driver: RFM69HCW
+Amplitude: +17dbm
+Frequency: 915 MHz
+Antenna: Quarter-Wavelength Monopole; or:
+X(1.4) x Y(1.90) in. PIFA w/ single short pin @ 1.4X0Y on
+X(1.4) x Y(7.75) in. Ground plane seperated by
+~3.5 mm cardboard
+Feedpoint at .7X0Y
+
+Purpose: determine baseline transmission characteristics of monopole and PIFA antenna;
+determine optimal feedpoint & dimensions for PIFA antenna.
+
+Measurment: RSSI @ ~ 1m, line-of-sight
